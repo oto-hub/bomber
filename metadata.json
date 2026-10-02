@@ -1,0 +1,7 @@
+{
+  "name": "ボンバーアリーナ＆カンガルーアドベンチャー",
+  "description": "爆弾迷路で大激走！アイテム（個数UP・火力UP・スピードUP・キック・ブロック貫通）やカンガルー騎乗アクション、対戦モード＆一人用アドベンチャーを搭載した本格ボンバーゲーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
